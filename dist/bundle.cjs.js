@@ -1,8 +1,2 @@
-'use strict';
-
-function lift(config) {
-  console.log(config);
-}
-
-module.exports = lift;
+"use strict";function lift(o){console.log(o)}module.exports=lift;
 //# sourceMappingURL=bundle.cjs.js.map

@@ -1,6 +1,2 @@
-function lift(config) {
-  console.log(config);
-}
-
-export default lift;
+function lift(l){console.log(l)}export default lift;
 //# sourceMappingURL=bundle.esm.js.map

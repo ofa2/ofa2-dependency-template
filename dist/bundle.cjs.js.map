@@ -1,1 +1,1 @@
-{"version":3,"file":"bundle.cjs.js","sources":["../src/index.js"],"sourcesContent":["export default function lift(config) {\n  console.log(config);\n}\n"],"names":["lift","config","log"],"mappings":";;AAAe,SAASA,IAAT,CAAcC,MAAd,EAAsB;UAC3BC,GAAR,CAAYD,MAAZ;;;;;"}
+{"version":3,"file":"bundle.cjs.js","sources":["../src/index.js"],"sourcesContent":["export default function lift(config) {\n  // eslint-disable-next-line no-console\n  console.log(config);\n}\n"],"names":["lift","config","log"],"mappings":"aAAe,SAASA,KAAKC,WAEnBC,IAAID"}
