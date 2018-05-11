@@ -1,2 +1,9 @@
-"use strict";function lift(o){console.log(o)}module.exports=lift;
+'use strict';
+
+function lift(config) {
+  // eslint-disable-next-line no-console
+  console.log(config);
+}
+
+module.exports = lift;
 //# sourceMappingURL=bundle.cjs.js.map
